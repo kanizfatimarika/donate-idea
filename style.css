@@ -1,0 +1,97 @@
+body{
+    font-family: 'Aboreto', cursive;
+}
+h1{
+    font-size: 400%;
+}
+h2{
+    font-size: 250%;
+    box-shadow: 10px 10px 30px rgb(56, 52, 52);
+    width: 20%;
+    border-radius: 10px; 
+    margin-left:40% ;
+    padding-left: 30px;
+}
+h3{
+    font-size: 200%;
+    text-align: center;
+}
+h4{
+    font-size: 150%;
+    text-align: left;
+}
+p{
+    font-size: 90%;
+    text-align: center;
+}
+.font{
+    
+    text-align: center;
+  
+    color: rgb(212, 218, 223);
+    background-image: url(donationpic.png);
+}
+
+.link{
+    background-color: rgb(11, 96, 97);
+    text-decoration: none;
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px; 
+    color: aliceblue;
+    
+}
+.money{
+    text-align: center;
+    
+}
+.blue{
+
+border-bottom: 2px solid red;
+}
+.other-amount{
+    
+    width: 80%;
+    margin: 0 auto;
+}
+.input-txt{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid rgb(14, 9, 9);
+    text-align: center;
+
+}
+.flaxible-container{
+    display: flex;
+    width: 50%;
+    margin-left: 25%;
+   
+    
+}
+.plan-box{
+    background-color: rgb(179, 247, 161); 
+    margin-left: 5%;
+    margin-right: 5%;
+   width: 50%;
+   padding: 50px 10px 50px 10px;
+  
+    border-radius: 10px;
+   border-left: solid;
+
+}
+.donation{
+    width: 50%;
+
+}
+.donation img{
+    width: 250%;
+}
+.need-us{
+    width: 50%;
+    color: aliceblue;
+    margin-top: 10%;
+}
+.email-submit{
+    text-align: center;
+    
+}
